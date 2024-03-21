@@ -3,14 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        .center {
-            display: block;
-            margin-left: auto;
-            margin-right: auto;
-            width: 50%; /* Adjust as needed */
-        }
-    </style>
+    <style> .center {display: block;margin-left: auto;margin-right: auto;width: 50%; }</style>
 </head>
 <body>
     <h1>Who! - Deep Residual Network (ResNet) based Speaker Recognition System</h1>
