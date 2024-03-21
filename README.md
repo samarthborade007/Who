@@ -3,11 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style> .center {display: block;margin-left: auto;margin-right: auto;width: 50%; }</style>
 </head>
 <body>
     <h1>Who! - Deep Residual Network (ResNet) based Speaker Recognition System</h1>
-    <img src="logo.png" alt="Who! Logo" class="center" style="width: 600px; height: auto;">
+    <img src="logo.png" alt="Who! Logo" text-align="center" style="width: 600px; height: auto;">
     <h2>Overview</h2>
     <p>Who! is a speaker recognition system based on Deep Residual Network (ResNet) architecture. It utilizes Fast Fourier Transform (FFT) to extract frequency domain features from speech recordings and employs a 1D convolutional neural network (CNN) with residual connections for speaker classification.</p>
     <h2>Features</h2>
